@@ -1,6 +1,6 @@
 #!/bin/bash
 # =========================================
-BOT="https://raw.githubusercontent.com/myridwan/src/ipuk/"
+BOT="https://raw.githubusercontent.com/lunoxxdev/b0tPPQ/main/"
 UPDATE="https://raw.githubusercontent.com/lunoxxdev/44hhhcr000tttY33sssssss/main/update/update.sh"
 GREEN='\033[0;32m'
 RED='\033[0;31m'
