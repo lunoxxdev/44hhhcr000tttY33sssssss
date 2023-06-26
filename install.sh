@@ -117,7 +117,7 @@ if [ "" = "$PKG_OK" ]; then
   echo -e "[ ${tyblue}NOTES${NC} ] After rebooting"
   sleep 1
   echo -e "[ ${tyblue}NOTES${NC} ] Then run this script again"
-  echo -e "[ ${tyblue}NOTES${NC} ] Notes, Script Mod By ARH-PROJECT"
+  echo -e "[ ${tyblue}NOTES${NC} ] Notes, Script Mod By LunoxxImpostor"
   echo -e "[ ${tyblue}NOTES${NC} ] if you understand then tap enter now.."
   read
 else
@@ -352,7 +352,7 @@ fi
 curl -sS ifconfig.me > /etc/myipvps
 
 echo " "
-echo "=====================-[ AutoScript Arh-Project ]-===================="
+echo "=====================-[ AutoScript LunoxxImpostor ]-===================="
 echo ""
 echo "------------------------------------------------------------"
 echo ""
@@ -392,13 +392,13 @@ echo "   - Admin Control" | tee -a log-install.txt
 echo "   - Restore Data" | tee -a log-install.txt
 echo "   - Full Orders For Various Services" | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
-echo "   >>> WhatsApp : +6283850135751 (Text Only)"  | tee -a log-install.txt
+echo "   >>> Join Grub : +6283850135751 (Text Only)"  | tee -a log-install.txt
 echo "   >>> Telegram : t.me/citralinggau"  | tee -a log-install.txt
 echo ""
 echo ""
 echo "------------------------------------------------------------"
 echo ""
-echo "===============-[ Script ARH-PROJECT  ]-==============="
+echo "===============-[ Script LunoxxImpostor  ]-==============="
 echo -e ""
 echo ""
 echo "" | tee -a log-install.txt

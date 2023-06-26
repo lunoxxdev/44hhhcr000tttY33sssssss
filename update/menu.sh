@@ -14,15 +14,15 @@ checking_sc() {
     echo -ne
   else
     echo -e "\033[1;93m────────────────────────────────────────────\033[0m"
-    echo -e "\033[42m          404 NOT FOUND AUTOSCRIPT          \033[0m"
+    echo -e "\033[42m          Lunoxx Impostor          \033[0m"
     echo -e "\033[1;93m────────────────────────────────────────────\033[0m"
     echo -e ""
     echo -e "            ${RED}PERMISSION DENIED !${NC}"
     echo -e "   \033[0;33mYour VPS${NC} $ipsaya \033[0;33mHas been Banned${NC}"
-    echo -e "     \033[0;33mBuy access permissions for scripts${NC}"
+    echo -e "     \033[0;33mTertolak Mentah-Mentah Akawoakow${NC}"
     echo -e "             \033[0;33mContact Admin :${NC}"
-    echo -e "      \033[0;36mTelegram${NC} t.me/Kytxz"
-    echo -e "      ${GREEN}WhatsApp${NC} wa.me/6281774970898"
+    echo -e "      \033[0;36mTelegram${NC} t.me/lunoxximpostor"
+    echo -e "      ${GREEN}Join Grub${NC} IGH Cok"
     echo -e "\033[1;93m────────────────────────────────────────────\033[0m"
     exit
   fi
@@ -190,7 +190,7 @@ echo -e "  ${CYAN}[05]${NC} • ${RED}[${NC}${PURPLE} SSWS MENU ${NC}${RED}]${NC
 echo -e "  ${CYAN}[06]${NC} • ${RED}[${NC}${PURPLE} UPDATE MENU${NC}${RED}]${NC}           ${CYAN}[13]${NC} • ${RED}[${NC}${PURPLE} AUTO REBOOT ${NC}${RED}]${NC}     "
 echo -e "  ${CYAN}[07]${NC} • ${RED}[${NC}${PURPLE} INSTALL UDP ${NC}${RED}]${NC}          ${CYAN}[14]${NC} • ${RED}[${NC}${PURPLE} MENU BOT ${NC}${RED}]${NC} "
 echo -e "$COLOR1┌────────────────────────────────────────────────────────────┐${NC}"
-echo -e "              << SCRIPT MULTIPORT TUNNELING >>                    \E[0m" | lolcatecho -e "$COLOR1└────────────────────────────────────────────────────────────┘${NC}"
+echo -e "              << Lunoxx Impostor >>                    \E[0m" | lolcatecho -e "$COLOR1└────────────────────────────────────────────────────────────┘${NC}"
 echo -e ""
 echo -ne " Select menu : "; read opt
 case $opt in
